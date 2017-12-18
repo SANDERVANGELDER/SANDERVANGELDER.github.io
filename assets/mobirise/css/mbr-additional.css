@@ -1714,18 +1714,18 @@ body {
   }
 }
 .cid-qDqKFCZeIC {
-  background-image: url("../../../assets/images/mitaddm-1800x1350.jpg");
+  background-image: url("../../../assets/images/char4-1800x1280.jpg");
 }
 .cid-qDqKFCZeIC H1 {
   text-align: center;
-  color: #e4d295;
+  color: #ffffff;
 }
 .cid-qDqKFCZeIC .mbr-text,
 .cid-qDqKFCZeIC .mbr-section-btn {
-  color: #e4d295;
+  color: #ffffff;
 }
 .cid-qDqKFCZeIC H3 {
-  color: #e4d295;
+  color: #ffffff;
 }
 .cid-qDqMTM6qCf {
   padding-top: 90px;
@@ -2141,6 +2141,23 @@ body {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/blue1-1800x1255.jpg");
 }
+.cid-qEaTzPpmXL {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-qEaTzPpmXL h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qEaTzPpmXL p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qEaTzPpmXL .card-box {
+  padding-top: 2rem;
+}
 .cid-qE4Pu93vvX {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2262,6 +2279,49 @@ body {
   .cid-qDRK0UKOJ2 .inner-container {
     width: 100% !important;
   }
+}
+.cid-qEaT1QwYzG {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qEaT1QwYzG .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-qEaT1QwYzG .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-qEaT1QwYzG .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-qEaT1QwYzG .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-qEaT1QwYzG .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+}
+.cid-qEaT1QwYzG .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  background: linear-gradient(to left, rgba(85, 67, 70, 0.85), rgba(69, 80, 91, 0.85)) !important;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
 }
 .cid-qDqNGaIlML .navbar {
   padding: .5rem 0;
