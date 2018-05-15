@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sander Van Gelder",
-    "currentPage": "page5.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -34,7 +34,7 @@
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-111375118-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-111375118-1');\r\n</script>\r\n",
     "versionFirst": "4.3.2",
-    "uniqCompNum": 44,
+    "uniqCompNum": 46,
     "versionPublish": "4.3.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -1572,6 +1572,42 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">HOE NOG ONGESTOORD ROMANTISCH LEVEN IN DEZE MODERNE TIJDEN?</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">Een essay door Sander Van Gelder<br>(Will be available in English soon)&nbsp;</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qS7LkZ38Vi",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content4-19"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content3",
+          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline>DE BEKLIMMING: EEN PERSOONLIJKE ERVARING\n<div>Enkele maanden geleden bevond ik me op de oprit van een haciënda ergens buiten Latacunga in Ecuador. Deze oprit was enkele honderden meters lang en ik was verbaasd waarom mensen zo een lange oprit nodig hadden in tijden waarin ze met paard en koets reden. De auto stond al klaar en we vertrokken naar het nationaal park waar de almachtige Cotopaxi vulkaan zich bevindt. Die ochtend was het behoorlijk mistig en redelijk koud. We reden ongeveer een uur op de snelweg voor we aan de ingang kwamen van het nationaal park. Daarna reden we nog ongeveer een uur bergop tussen bossen van eucalyptusbomen. De geur was zo doordringend en fris, iets wat je niet verwacht op een hoogte van 3800m. Uiteindelijk kwamen we op een plat stuk waar de wegborden vervangen waren door waarschuwingen voor pyroclastische stromen en modderstromen. Het immense veld lag vol met brokstukken van de vorige uitbarstingen van de vulkaan. De ene steen zo klein als je eigen hand, andere brokstukken groter als de mini-bus waarin we reden. De mist was die ochtend nog steeds niet weggetrokken maar af en toe kwam er een gat in het wolkendek waardoor we een stukje te zien kregen van de top van de Cotopaxi.  \n</div><div>Ik heb in mijn hele leven nog niets anders gezien dat zo groot en intimiderend was. Je moest je nek haast 90 graden naar boven heffen om de top goed te kunnen bekijken. We reden nog enkele kilometers al zigzaggend bergop voor we aan de parking kwamen. Op de parking stonden 2 andere auto’s, een wit busje en een oude gele Renault sportwagen. Mensen zaten buiten te picknicken in de vrieskou met windsnelheden tot 90km/uur. Samen met de gids vertrok ik naar de Refuge Camp ongeveer 500m verder bergop. We hadden de keuze om 2 paden te nemen. Het rechtse pad was de kortste, maar het meest vermoeiende. Het pad was recht naar boven, met een helling van ongeveer 40 graden. Het linkse was een zigzaggend pad waar we ongeveer een uur zouden over stappen. We kozen onmiddellijk het linkse zodat ik onderweg me even kon wegkeren van de berg om het uitzicht goed in mij op te nemen. De gierende wind bevroor mijn oren en mijn zicht werd belemmerd door mist en koude lucht. Het was een pijn die maar niet ten einde kwam zolang je je buiten bevond. \n</div></div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><div><br></div><div><br></div><div>Mijn gedachten schakelden over naar nostalgische momenten in mijn leven, ik dacht aan de mensen die mij het meest dierbaar waren, en alles dat ik liefhad. Dit hielp me heel hard om de zware tocht verder te zetten, alsof mijn hoofd overschakelde in overlevingsmodus. Zo’n eerste beklimming van dit soort was het meest extreme wat ik ooit al had gedaan in mijn leven. We kamen na 25 minuten toe aan het kamp. De gids wenste me proficiat omdat hij nog niet veel mensen het in zo’n korte tijd had zien afleggen. Hij vertelde me dat ik met mijn conditie een beklimming naar de top kon halen. Hij had geen idee hoe leuk ik het vond dit te horen, omdat het een van mijn grootste dromen was de top van de Cotopaxi te beklimmen. We gingen naar binnen, warmde ons op en dronken samen een warme chocomelk. Ik sprak er met een Australiër en hij vertelde me dat de top momenteel verboden toegang was. De vulkaan stond namelijk heel actief en heel misschien zouden de paden naar boven over enkele weken terug opengaan. Ik vond het niet erg want dit gaf me een reden om ooit nog een keer terug te komen om mijn droom tot werkelijkheid te maken. \n</div><div>Daar stond ik dan, 4864m hoger op onze planeet. Zoals de slogan luidt van de Cotopaxi; 4864 meter dichter bij de maan. De vulkaan wordt door het Quichua-volk ook wel de nek van de maan genoemd. Ik stapte naar buiten zonder mijn gids en eindelijk kon ik alles door me heen laten komen. De sterke wind was er nog, maar de pijn was verdwenen. Ik voelde me net zoals een van de figuren in de schilderijen van Caspar David Friedrich die op rug werd bekeken in wondermooie en mysterieuze landschappen. Net zoals zijn figuren blikte ik terug op de afgelegde weg. Op dat moment was ik ‘de wandelaar boven de nevelen’. Ik kan me de beelden nog perfect herinneren. Het was een van de belangrijkste momenten in mijn leven als ik er nu terug op denk. Ik bevond me in wat de filosofen van de 18de eeuw het sublieme zouden noemen. \n</div><div><br></div></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qS7KyavFjR",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content3-18"
         },
         {
           "_styles": {
