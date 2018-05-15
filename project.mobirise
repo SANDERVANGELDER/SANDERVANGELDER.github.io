@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sander Van Gelder",
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2177,7 +2177,7 @@
             }
           },
           "_name": "gallery1",
-          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"5\"></div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"5\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
           "_cid": "qDqOteT3gk",
           "_anchor": "gallery1-s",
           "_protectedParams": [
@@ -2202,7 +2202,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/work-1-1800x1149-800x510.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "110 x 67 cm",
                 "active": false
               },
               {
@@ -2214,7 +2214,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/red1-1800x1158-800x514.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "42 x 30 cm",
                 "active": false
               },
               {
@@ -2226,7 +2226,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/landscape-1286x1800-800x1119.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "29,7 x 42 cm<br>",
                 "active": false
               },
               {
@@ -2238,7 +2238,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/char3-1289x1800-799x1117.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "29,7 x 42 cm",
                 "active": false
               },
               {
@@ -2250,7 +2250,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/cotpaxi1-1104x1800-800x1304.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "118 x 50 cm&nbsp;",
                 "active": false
               },
               {
@@ -2262,7 +2262,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/cotopaxi1-944x1800-800x1525.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "105 x 55 cm&nbsp;",
                 "active": false
               },
               {
@@ -2274,7 +2274,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/oil1-1295x1800-800x1111.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "29,7 x 42 cm",
                 "active": false
               },
               {
@@ -2286,7 +2286,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/study-1800x1599-800x710.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "15 x 15 cm",
                 "active": false
               },
               {
@@ -2322,7 +2322,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/char5-1800x1284-800x570.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "42 x 29,7 &nbsp;cm",
                 "active": false
               },
               {
@@ -2334,7 +2334,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/blue2-1800x1244-800x552.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "95 x 60 cm",
                 "active": false
               },
               {
@@ -2346,7 +2346,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/blue1-1800x1255-800x557.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "95 x 60",
                 "active": false
               },
               {
@@ -2358,7 +2358,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/char4-1800x1280-800x568.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "42 x 29,7 cm",
                 "active": true
               }
             ]
@@ -2431,7 +2431,7 @@
             }
           },
           "_name": "gallery1",
-          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"4\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"5\"></div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"4\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"5\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
           "_cid": "qQCzR6e7qJ",
           "_anchor": "gallery1-17",
           "_protectedParams": [
@@ -2456,7 +2456,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img9388-2000x1489-800x595.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "30 x 40 cm",
                 "active": false
               },
               {
@@ -2468,7 +2468,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img9399-2000x614-800x245.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "90 x 18 cm&nbsp;",
                 "active": false
               },
               {
@@ -2480,7 +2480,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img9385-2000x1658-800x663.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "30 x 40 cm",
                 "active": false
               },
               {
@@ -2492,7 +2492,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img9389-2000x1397-800x558.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "30 x 40 cm",
                 "active": false
               },
               {
@@ -2504,7 +2504,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img9390-2000x1592-800x636.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "30 x 40 cm",
                 "active": false
               },
               {
@@ -2516,7 +2516,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img9392-2000x1412-800x564.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "24 x 16 cm",
                 "active": false
               },
               {
@@ -2528,7 +2528,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img9397-2000x1359-800x543.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "85 x 60 cm",
                 "active": false
               },
               {
@@ -2540,7 +2540,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img9396-2000x499-800x199.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "120 x 25 cm&nbsp;",
                 "active": false
               },
               {
@@ -2552,7 +2552,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img9402-1999x1185-800x474.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "75 x 45 cm",
                 "active": false
               },
               {
@@ -2564,7 +2564,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img9403-2000x1039-800x415.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "45 x &nbsp;25 cm&nbsp;",
                 "active": true
               }
             ]
