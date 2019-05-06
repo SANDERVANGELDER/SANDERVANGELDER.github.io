@@ -147,7 +147,7 @@ body {
 .btn-primary:active {
   background-color:rgba(0,0,0,0.8);
   border-color: none;
-    border:none;
+  border:none;
   color: #ffffff;
 }
 .btn-primary:hover,
