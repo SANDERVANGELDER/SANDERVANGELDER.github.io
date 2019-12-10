@@ -772,7 +772,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc03751-1-1918x2344-800x977.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "\"The Wall\" - 40 x 50",
                 "active": false
               },
               {
@@ -784,7 +784,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc03754-2000x1433-800x573.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "\"Green River\" - 60 x 90",
                 "active": false
               },
               {
@@ -796,7 +796,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc03728-1848x2247-800x972.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "\"Lagoon\" - 20 x 24 cm",
                 "active": true
               }
             ]
